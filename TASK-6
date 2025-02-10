@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blogging Platform</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            max-width: 800px;
+            margin: auto;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 1.2em;
+            color: #555;
+        }
+        .section {
+            margin-top: 20px;
+            padding: 15px;
+            background: #eaeaea;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Our Blogging Platform</h1>
+        <p>Share your thoughts and explore amazing blog posts.</p>
+        
+        <div class="section">
+            <h2>Blog Posts</h2>
+            <p>Read and discover insightful content.</p>
+        </div>
+
+        <div class="section">
+            <h2>User Authentication</h2>
+            <p>Register and login to create and manage your blog posts.</p>
+        </div>
+
+        <div class="section">
+            <h2>Commenting System</h2>
+            <p>Engage with other users by leaving comments on blog posts.</p>
+        </div>
+
+        <div class="section">
+            <h2>Search Blog Posts</h2>
+            <p>Find specific blogs using our advanced search feature.</p>
+        </div>
+
+        <div class="section">
+            <h2>Mobile Responsive</h2>
+            <p>Enjoy a seamless experience on any device.</p>
+        </div>
+    </div>
+</body>
+</html>
